@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ドミノピザ",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.40119922161102,
+            35.568137545904314
+          ],
+          [
+            139.40015316009521,
+            35.569180427157235
+          ],
+          [
+            139.39918220043182,
+            35.56851281017801
+          ]
+        ]
+      }
+    }
+  ]
+}
